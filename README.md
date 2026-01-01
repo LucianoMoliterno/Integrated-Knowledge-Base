@@ -82,14 +82,14 @@
 ---
 #### Scientific Research Project (AgTech)
 
-[cite_start]**Title:** *Evaluation of the impact of AI technologies on alfalfa production in Manfredi, Córdoba*[cite: 421].
+**Title:** *Evaluation of the impact of AI technologies on alfalfa production in Manfredi, Córdoba*
 
-* [cite_start]**Objective:** Analyze how AI and digital systems affect productivity, efficiency, and resource usage in forage crops[cite: 474].
-* [cite_start]**Hypothesis:** AI implementation modifies productivity, but success depends on institutional factors, training, and connectivity rather than technology alone[cite: 110, 552].
+- **Objective:** Analyze how AI and digital systems affect productivity, efficiency, and resource usage in forage crops
+- **Hypothesis:** AI implementation modifies productivity, but success depends on institutional factors, training, and connectivity rather than technology alone
 * **Research Design:**
-    * [cite_start]**Phase 1 (Documentary):** Review of INTA technical reports and AgTech startups (Auravant, Kilimo)[cite: 67, 123].
-    * [cite_start]**Phase 2 (Fieldwork):** Semi-structured interviews (15-20) with technicians/producers and structured surveys (30 cases)[cite: 115, 117].
-    * [cite_start]**Phase 3 (Analysis):** Data processing using **SPSS** (quantitative) and **NVivo** (qualitative/thematic)[cite: 127].
+     - **Phase 1 (Documentary):** Review of INTA technical reports and AgTech startups (Auravant, Kilimo)
+     - **Phase 2 (Fieldwork):** Semi-structured interviews (15-20) with technicians/producers and structured surveys (30 cases)
+     - **Phase 3 (Analysis):** Data processing using **SPSS** (quantitative) and **NVivo** (qualitative/thematic)
 
 ---
 
