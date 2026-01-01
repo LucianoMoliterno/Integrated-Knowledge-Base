@@ -39,6 +39,13 @@
 
 ---
 
+### **5. Introduction to Scientific Thought**  
+- Epistemology & History of Science 
+- Logic & Semiotics
+- Methodology in Social Sciences
+
+---
+
 ## 🔧 Practical Work  
 
 ### **Database Projects**  
@@ -73,6 +80,18 @@
 - Evaluate technocratic governance models in Brazil, Argentina, and Mexico.  
 
 ---
+#### Scientific Research Project (AgTech)
+
+[cite_start]**Title:** *Evaluation of the impact of AI technologies on alfalfa production in Manfredi, Córdoba*[cite: 421].
+
+* [cite_start]**Objective:** Analyze how AI and digital systems affect productivity, efficiency, and resource usage in forage crops[cite: 474].
+* [cite_start]**Hypothesis:** AI implementation modifies productivity, but success depends on institutional factors, training, and connectivity rather than technology alone[cite: 110, 552].
+* **Research Design:**
+    * [cite_start]**Phase 1 (Documentary):** Review of INTA technical reports and AgTech startups (Auravant, Kilimo)[cite: 67, 123].
+    * [cite_start]**Phase 2 (Fieldwork):** Semi-structured interviews (15-20) with technicians/producers and structured surveys (30 cases)[cite: 115, 117].
+    * [cite_start]**Phase 3 (Analysis):** Data processing using **SPSS** (quantitative) and **NVivo** (qualitative/thematic)[cite: 127].
+
+---
 
 ## 🛠️ Methodology  
 
@@ -92,6 +111,11 @@
    - Stakeholder mapping (Government ↔ Academia ↔ Industry).  
    - Decolonial critiques of Eurocentric tech transfer models.  
 
+5. **Scientific Thought:**
+   - Epistemological Critique: Analyzing texts to identify underlying paradigms (Positivism vs. Historicism) 
+   - Logical Formalization: Deconstructing arguments into premises and conclusions to test validity 
+   - Mixed-Methods Research: Integrating bibliographic review, fieldwork (interviews/surveys), and statistical analysis to validate hypotheses in productive sectors (AgTech)
+     
 ---
 
 ## 📜 Academic Standards  
